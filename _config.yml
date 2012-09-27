@@ -1,8 +1,1 @@
-auto: true
-permalink: /blog/:year/:month/:day/:title
-markdown: rdiscount
-url: http://www.ppxu.net/
-pygments: true
-title: PPxu's blog
-author: PPxu
-version: v0.0.1
+baseurl: /jekyll_demo
